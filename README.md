@@ -39,7 +39,7 @@ This project applies Principal Component Analysis (PCA) to a dataset containing 
 
 <br>
 
-## Results
+### Results
 
 - **Explained Variance:** The first few principal components retained most of the dataset's variance.
 - **Optimal Number of Components:** Retaining 95% of variance required [number] components (determined dynamically).
