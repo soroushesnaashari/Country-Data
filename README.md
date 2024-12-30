@@ -12,21 +12,21 @@ This project applies Principal Component Analysis (PCA) to a dataset containing 
 ### Project Workflow
 
 1. **Data Preprocessing:**
-  - Removed the 'country' column to focus on numerical features.
-  - Standardized the data using StandardScaler to ensure zero mean and unit variance.
+    - Removed the 'country' column to focus on numerical features.
+    - Standardized the data using StandardScaler to ensure zero mean and unit variance.
 
 2. **Exploratory Data Analysis:**
-  - Visualized the distribution of each feature before and after scaling.
-  - Examined correlation matrices to understand relationships between features.
+    - Visualized the distribution of each feature before and after scaling.
+    - Examined correlation matrices to understand relationships between features.
 
 3. **PCA Application:**
-  - Performed PCA on the standardized data.
-  - Determined the explained variance for each principal component.
-  - Identified the minimum number of components required to retain 95% variance.
+    - Performed PCA on the standardized data.
+    - Determined the explained variance for each principal component.
+    - Identified the minimum number of components required to retain 95% variance.
 
 4. **Evaluation:**
-  - Calculated the reconstruction error (Mean Squared Error) to measure how well the reduced data approximates the original dataset.
-  - Visualized the data using the first two principal components.
+    - Calculated the reconstruction error (Mean Squared Error) to measure how well the reduced data approximates the original dataset.
+    - Visualized the data using the first two principal components.
 
 <br>
 
