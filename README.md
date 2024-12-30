@@ -1,5 +1,5 @@
 ## Country Data
-[![](Image.jpg)](https://unsplash.com/photos/a-close-up-of-a-screen-tcJ6sJTtTWI)
+[![](Image.jpg)](https://unsplash.com/photos/RoDSZoVzBVs)
 
 ### Overview
 This project applies Principal Component Analysis (PCA) to a dataset containing country-level features. The goal is to reduce dimensionality while retaining most of the variance, enabling a more compact representation of the data. PCA is used to:
